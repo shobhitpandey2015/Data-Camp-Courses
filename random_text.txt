@@ -1,0 +1,2 @@
+just created this file for fun
+second line - learning python
